@@ -18,26 +18,4 @@ source:https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-cau
 https://www.google.com
 
 
-# Machine Learning and Breast Cancer Detection
-Machine learning is the process in which our system learns something by it's own without being Explicitely Programmed.
 
-In this Project we used Machine Learning Algorithm to find the Pattern from the Data and prected whether Person is suffering from
-cancer or not.
-## The problem is of Classification Part.
-### Classification means to distinguish between True or False(yes or No)(0 or 1)
-## Algorithm Used:
-**Logistic Regression
-**Decision Tree
-**Random Forest(Classifier)
-**Support Vector Machine(Classifier)
-**K Nearest Neighbors
-** Naive Byes
-
-### KNN gave kind of Better Prediction Score or say Accuracy
-## Some Feature Engineering helped our data to get relief from Outliers.
-
-### Grapical Representation Helps users to get information and understand without any technical backgroung
-### At last User can Enjoy real world experience using their own data and predict whether they have breast cancer or not.
-
-Thank You
-Regards
